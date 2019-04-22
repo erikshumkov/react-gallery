@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter,
+import { HashRouter,
          Route,
          Switch
 } from 'react-router-dom';
@@ -13,7 +13,7 @@ const Container = (props) => {
 
     return(
 
-      <BrowserRouter>
+      <HashRouter basename='/'>
         <div className="container">
 
           <Header formSubmit={props.formSubmit}
@@ -46,7 +46,7 @@ const Container = (props) => {
           </Switch>
           }
         </div>
-      </BrowserRouter>
+      </HashRouter>
 
     );
 }
