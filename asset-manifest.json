@@ -1,14 +1,14 @@
 {
   "main.css": "/react-gallery/static/css/main.86770e0e.chunk.css",
-  "main.js": "/react-gallery/static/js/main.85d308c8.chunk.js",
-  "main.js.map": "/react-gallery/static/js/main.85d308c8.chunk.js.map",
-  "static/js/1.1809fa40.chunk.js": "/react-gallery/static/js/1.1809fa40.chunk.js",
-  "static/js/1.1809fa40.chunk.js.map": "/react-gallery/static/js/1.1809fa40.chunk.js.map",
+  "main.js": "/react-gallery/static/js/main.6a4f0aa8.chunk.js",
+  "main.js.map": "/react-gallery/static/js/main.6a4f0aa8.chunk.js.map",
+  "static/js/1.5358d396.chunk.js": "/react-gallery/static/js/1.5358d396.chunk.js",
+  "static/js/1.5358d396.chunk.js.map": "/react-gallery/static/js/1.5358d396.chunk.js.map",
   "runtime~main.js": "/react-gallery/static/js/runtime~main.6a638fed.js",
   "runtime~main.js.map": "/react-gallery/static/js/runtime~main.6a638fed.js.map",
   "static/media/project.css": "/react-gallery/static/media/rock.05b02565.jpg",
   "static/css/main.86770e0e.chunk.css.map": "/react-gallery/static/css/main.86770e0e.chunk.css.map",
   "index.html": "/react-gallery/index.html",
-  "precache-manifest.ac87bb947fa97a0c099e15fab34462bd.js": "/react-gallery/precache-manifest.ac87bb947fa97a0c099e15fab34462bd.js",
+  "precache-manifest.d79addbffc7b6ca3d9bcc1df7ab15268.js": "/react-gallery/precache-manifest.d79addbffc7b6ca3d9bcc1df7ab15268.js",
   "service-worker.js": "/react-gallery/service-worker.js"
 }
